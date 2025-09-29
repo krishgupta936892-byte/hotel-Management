@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>table</title>
+</head>
+
+<body>
+<title>
+
+<tr border=1 cellspace=o> 
+<th>TIME TABLE><th>
+</tr>
