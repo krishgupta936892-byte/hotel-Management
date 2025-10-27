@@ -55,7 +55,7 @@ img{
 
 /* header */
 .header{
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.2)), url("image/front.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.2)), url("Hotelimage.jpg") center/cover no-repeat;
     min-height: 100vh;
     color: #fff;
     padding: 25px;
@@ -547,4 +547,5 @@ img{
     bottom: 0;
     left: 0;
     z-index: 5;
+
 }
